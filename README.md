@@ -1,4 +1,4 @@
-```markdown
+
 # TrueSpecs
 
 A game compatibility agent that answers "will this run on my machine?" using structured community data, not just official specs.
