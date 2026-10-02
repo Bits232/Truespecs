@@ -64,4 +64,3 @@ OPENAI_AGENTS_DISABLE_TRACING=1
 ## License
 
 MIT
-```
